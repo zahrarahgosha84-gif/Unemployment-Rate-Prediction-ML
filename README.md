@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="images/giphy (11).gif" width="100%" height="350">
+  <img src="images/giphy (1).gif" width="100%" height="350">
 </p>
 
 
