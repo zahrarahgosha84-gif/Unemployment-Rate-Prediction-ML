@@ -1,7 +1,9 @@
 # Unemployment Rate Prediction Using Machine Learning
 
 
-
+<p align="center">
+  <img src="images/giphy (6).gif" width="100%" height="250">
+</p>
 
 ![Actual vs Predicted Unemployment](images/actual_vs_predicted.png)
 
