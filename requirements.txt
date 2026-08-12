@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+pandas_datareader
+requests
+scikit-learn
+plotly
