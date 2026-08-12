@@ -5,7 +5,6 @@
   <img src="images/giphy (6).gif" width="100%" height="350">
 </p>
 
-![Actual vs Predicted Unemployment](images/actual_vs_predicted.png)
 
 
 ## About the Project
@@ -13,6 +12,10 @@
 This project was created as a practice project while learning machine learning and applying it to economic data.
 
 The goal was to predict the unemployment rate using macroeconomic indicators and understand how different features affect model performance.
+
+
+![Actual vs Predicted Unemployment](images/actual_vs_predicted.png)
+
 
 The project covers the main steps of a machine learning workflow:
 
