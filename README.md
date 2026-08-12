@@ -137,7 +137,7 @@ Adding the lag feature significantly improved the model performance.
 * Seaborn
 * Pandas DataReader
 
-  <img src="images/giphy (3).gif" width="100%" height="200">
+  
 ---
 
 ## Future Improvements
@@ -145,3 +145,4 @@ Adding the lag feature significantly improved the model performance.
 * Try other machine learning models such as Random Forest and XGBoost.
 * Add more economic indicators.
 * Explore time-series forecasting models such as ARIMA.
+<img src="images/giphy (4).gif" width="100%" height="200">
