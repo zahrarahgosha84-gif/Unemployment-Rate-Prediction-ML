@@ -137,6 +137,7 @@ Adding the lag feature significantly improved the model performance.
 * Seaborn
 * Pandas DataReader
 
+  <img src="images/giphy (3).gif" width="100%" height="200">
 ---
 
 ## Future Improvements
